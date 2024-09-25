@@ -1,0 +1,31 @@
+/* Selector de descendiente */
+div p {
+    color: red;
+  }
+  
+  /* Selector de hijo directo */
+  ul > li:nth-child(2) {
+    background-color: lightblue;
+  }
+  
+  /* Selector de grupo */
+  h1, a {
+    color: green;
+  }
+  
+  /* Pseudo-clase :hover */
+  a:hover {
+    color: red;
+  }
+  
+  
+  /* Selector de atributo con valor parcial ^ */
+  a[href^="https"] {
+    text-decoration: underline;
+  }
+  
+  /* Selector de atributo con valor parcial $ */
+  img[src$=".jpg"] {
+    border: 2px solid black;
+  }
+  

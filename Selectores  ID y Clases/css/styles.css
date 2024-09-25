@@ -1,0 +1,51 @@
+/* Selector de ID */
+#titulo-principal {
+    font-size: 32px;
+    color: darkblue;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Selector de clase */
+.texto {
+    font-size: 18px;
+    color: darkgray;
+    line-height: 1.5;
+}
+
+/* Selector de ID combinado con clase */
+#parrafo-destacado {
+    font-weight: bold;
+    background-color: lightyellow;
+    border: 2px solid gold;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+/* Selector de clase para una sección */
+.seccion {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+
+/* Selector de ID dentro de una clase */
+.seccion #subtitulo {
+    font-size: 24px;
+    color: darkgreen;
+    margin-bottom: 15px;
+}
+
+/* Selector de clase para una lista */
+.lista {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+/* Selector de clase para los elementos de la lista */
+.lista li {
+    font-size: 16px;
+    color: #ad5050;
+    margin-bottom: 5px;
+}

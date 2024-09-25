@@ -1,0 +1,5 @@
+Resumen de los selectores explicados
+Selector de etiqueta: Se usa para aplicar estilos a todos los elementos de un tipo (por ejemplo, todos los párrafos <p>).
+Selector de clase: Aplica estilos a los elementos que tienen una clase específica. Puedes usar la misma clase en varios elementos.
+Selector de ID: Aplica estilos a un único elemento con un ID específico. Solo debe haber un elemento con ese ID en la página.
+Selector de atributo: Aplica estilos a los elementos que tienen un atributo o un valor de atributo específico.

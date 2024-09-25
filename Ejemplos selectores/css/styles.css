@@ -1,0 +1,21 @@
+/* Selector de etiqueta */
+p {
+    color: blue;
+  }
+  
+  /* Selector de clase */
+  .destacado {
+    font-weight: bold;
+  }
+  
+  /* Selector de ID */
+  #encabezado {
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  /* Selector de atributo */
+  input[type="text"] {
+    border: 4px solid black;
+  }
+  

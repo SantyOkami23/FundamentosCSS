@@ -1,0 +1,12 @@
+body {
+    background-color: #f0f0f0;  /* Color de fondo gris claro */
+}
+h1 {
+    color: hsla(229, 63%, 48%, 0.5); /* Rojo semi-transparente */
+  }
+
+p {
+    color: #333;  /* Texto de párrafos en gris oscuro */
+    font-size: 18px;  /* Tamaño de la fuente */
+    margin: 20px;  /* Espacio alrededor del párrafo */
+}
